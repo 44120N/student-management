@@ -32,3 +32,5 @@ This repository contains two implementations of a Student Management System: one
     - `resources/`: Contains view templates, CSS, and JavaScript files.
     - `public/`: Contains public assets (e.g., images, stylesheets).
 - **Video Demo**: [`Laravel - Google Chrome 2024-09-30`](./laravel_breeze/Laravel-Google-Chrome-2024-09-30-17-19-23.mp4)
+
+Note: Video is not published, because of the file size
