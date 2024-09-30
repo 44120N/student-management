@@ -34,3 +34,4 @@ This repository contains two implementations of a Student Management System: one
 - **Video Demo**: [`Laravel - Google Chrome 2024-09-30`](./laravel_breeze/Laravel-Google-Chrome-2024-09-30-17-19-23.mp4)
 
 Note: Video is not published, because of the file size
+Source: https://github.com/44120N/student-management
